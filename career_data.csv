@@ -1,0 +1,721 @@
+education,group,cgpa,skill,interest_area,work_preference,career
+Intermediate,ICS,88,Networking,Technology,Office,Software Engineer
+Intermediate,ICS,77,C++,Technology,Remote,Software Engineer
+Intermediate,ICS,71,Networking,Technology,Remote,Software Engineer
+Intermediate,ICS,77,Web Development,Technology,Office,Software Engineer
+Intermediate,ICS,70,C++,Technology,Remote,Software Engineer
+Intermediate,ICS,90,Web Development,Technology,Office,Software Engineer
+Intermediate,ICS,89,Database Management,Technology,Remote,Software Engineer
+Intermediate,ICS,82,C++,Technology,Office,Software Engineer
+Intermediate,ICS,71,Networking,Technology,Office,Software Engineer
+Intermediate,ICS,93,C++,Technology,Office,Software Engineer
+Intermediate,ICS,81,Web Development,Technology,Remote,Software Engineer
+Intermediate,ICS,81,Networking,Technology,Remote,Software Engineer
+Intermediate,ICS,74,C++,Technology,Office,Software Engineer
+Intermediate,ICS,80,C++,Technology,Remote,Software Engineer
+Intermediate,ICS,70,C++,Technology,Remote,Software Engineer
+Intermediate,ICS,88,Database Management,Technology,Office,Software Engineer
+Intermediate,ICS,81,Database Management,Technology,Office,Software Engineer
+Intermediate,ICS,84,Networking,Technology,Remote,Software Engineer
+Intermediate,ICS,70,C++,Technology,Office,Software Engineer
+Intermediate,ICS,76,Networking,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,98,Cloud Computing,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,84,Java,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,99,Cloud Computing,Technology,Office,Software Engineer
+Bachelor's,CS/IT,97,DevOps,Technology,Office,Software Engineer
+Bachelor's,CS/IT,78,Cloud Computing,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,67,DevOps,Technology,Office,Software Engineer
+Bachelor's,CS/IT,97,Java,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,85,Java,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,95,Python,Technology,Office,Software Engineer
+Bachelor's,CS/IT,89,DevOps,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,97,Cloud Computing,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,83,Cloud Computing,Technology,Office,Software Engineer
+Bachelor's,CS/IT,85,Cloud Computing,Technology,Office,Software Engineer
+Bachelor's,CS/IT,83,DevOps,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,79,Python,Technology,Office,Software Engineer
+Bachelor's,CS/IT,97,Web Development,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,91,DevOps,Technology,Office,Software Engineer
+Bachelor's,CS/IT,82,Python,Technology,Office,Software Engineer
+Bachelor's,CS/IT,67,Python,Technology,Remote,Software Engineer
+Bachelor's,CS/IT,80,Web Development,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,77,Python,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,82,Cloud Computing,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,76,Java,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,88,Java,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,95,Java,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,76,Cloud Computing,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,97,Java,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,89,Web Development,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,95,Cloud Computing,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,88,Cloud Computing,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,86,Python,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,95,Python,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,97,Web Development,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,100,Python,Technology,Office,Software Engineer
+Master's,MS/MPhil CS,83,Cloud Computing,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,99,Java,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,73,Java,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,83,Java,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,79,Web Development,Technology,Remote,Software Engineer
+Master's,MS/MPhil CS,87,Cloud Computing,Technology,Office,Software Engineer
+Bachelor's,CS/IT,94,AI/ML,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,83,Python,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,76,Data Science,Technology,Office,ML Engineer
+Bachelor's,CS/IT,88,AI/ML,Technology,Office,ML Engineer
+Bachelor's,CS/IT,80,Python,Technology,Office,ML Engineer
+Bachelor's,CS/IT,81,Python,Technology,Office,ML Engineer
+Bachelor's,CS/IT,100,AI/ML,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,87,Data Science,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,90,Data Science,Technology,Office,ML Engineer
+Bachelor's,CS/IT,85,AI/ML,Technology,Office,ML Engineer
+Bachelor's,CS/IT,81,AI/ML,Technology,Office,ML Engineer
+Bachelor's,CS/IT,77,Data Science,Technology,Office,ML Engineer
+Bachelor's,CS/IT,95,Python,Technology,Office,ML Engineer
+Bachelor's,CS/IT,84,Python,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,92,Data Science,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,85,AI/ML,Technology,Office,ML Engineer
+Bachelor's,CS/IT,96,AI/ML,Technology,Office,ML Engineer
+Bachelor's,CS/IT,87,Python,Technology,Office,ML Engineer
+Bachelor's,CS/IT,81,Python,Technology,Remote,ML Engineer
+Bachelor's,CS/IT,93,Python,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,79,Deep Learning,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,77,Big Data,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,81,Deep Learning,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,78,Big Data,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,88,Big Data,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,92,NLP,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,75,NLP,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,83,NLP,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,82,Advanced AI,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,89,Advanced AI,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,92,Big Data,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,98,NLP,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,76,NLP,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,83,Deep Learning,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,90,Advanced AI,Technology,Office,ML Engineer
+Master's,MS/MPhil CS,75,Deep Learning,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,100,NLP,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,87,NLP,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,76,Big Data,Technology,Remote,ML Engineer
+Master's,MS/MPhil CS,89,Advanced AI,Technology,Remote,ML Engineer
+Intermediate,ICS,77,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,67,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,84,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,74,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,93,Networking,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,97,Networking,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,74,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,85,Networking,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,70,Networking,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,72,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,79,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,78,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,85,Networking,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,85,Networking,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,77,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,ICS,72,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,90,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,95,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,66,Cybersecurity,Technology,Office,Cybersecurity Expert
+Intermediate,ICS,88,Networking,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,93,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,77,Cloud Computing,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,74,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,74,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,94,Cloud Computing,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,88,Cybersecurity,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,86,Cloud Computing,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,96,Cloud Computing,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,90,Cloud Computing,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,98,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,99,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,98,Cloud Computing,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,92,Cybersecurity,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,69,Cybersecurity,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,93,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,89,Cybersecurity,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,84,Cloud Computing,Technology,Office,Cybersecurity Expert
+Bachelor's,CS/IT,87,Cloud Computing,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,72,Cloud Computing,Technology,Remote,Cybersecurity Expert
+Bachelor's,CS/IT,79,Cybersecurity,Technology,Remote,Cybersecurity Expert
+Intermediate,Pre-Medical,80,Chemistry,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,86,Anatomy,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,86,Biology,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,93,Patient Care,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,80,Biology,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,91,Patient Care,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,82,Chemistry,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,88,Chemistry,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,88,Chemistry,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,82,Biology,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,85,Biology,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,80,Anatomy,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,81,Patient Care,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,100,Anatomy,Healthcare,Office,Doctor
+Intermediate,Pre-Medical,88,Chemistry,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,85,Anatomy,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,95,Anatomy,Healthcare,Office,Doctor
+Intermediate,Pre-Medical,88,Anatomy,Healthcare,Fieldwork,Doctor
+Intermediate,Pre-Medical,89,Anatomy,Healthcare,Office,Doctor
+Intermediate,Pre-Medical,86,Biology,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,99,Pharmacology,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,86,Patient Care,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,89,Patient Care,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,93,Pharmacology,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,81,Surgery Basics,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,84,Patient Care,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,81,Patient Care,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,75,Surgery Basics,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,81,Pharmacology,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,76,Surgery Basics,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,85,Pharmacology,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,97,Clinical Skills,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,79,Surgery Basics,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,92,Clinical Skills,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,78,Clinical Skills,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,82,Patient Care,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,89,Pharmacology,Healthcare,Office,Doctor
+Bachelor's,Medical/Health,92,Clinical Skills,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,99,Patient Care,Healthcare,Fieldwork,Doctor
+Bachelor's,Medical/Health,75,Patient Care,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,80,Advanced Clinical,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,93,Specialization,Healthcare,Office,Doctor
+Master's,MS Medical,80,Research,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,89,Research,Healthcare,Office,Doctor
+Master's,MS Medical,77,Advanced Clinical,Healthcare,Office,Doctor
+Master's,MS Medical,90,Research,Healthcare,Office,Doctor
+Master's,MS Medical,88,Specialization,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,95,Specialization,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,97,Research,Healthcare,Office,Doctor
+Master's,MS Medical,87,Research,Healthcare,Office,Doctor
+Master's,MS Medical,81,Advanced Clinical,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,98,Specialization,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,75,Research,Healthcare,Office,Doctor
+Master's,MS Medical,76,Research,Healthcare,Office,Doctor
+Master's,MS Medical,83,Advanced Clinical,Healthcare,Office,Doctor
+Master's,MS Medical,92,Specialization,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,94,Specialization,Healthcare,Office,Doctor
+Master's,MS Medical,85,Advanced Clinical,Healthcare,Office,Doctor
+Master's,MS Medical,91,Advanced Clinical,Healthcare,Fieldwork,Doctor
+Master's,MS Medical,88,Specialization,Healthcare,Fieldwork,Doctor
+Intermediate,Commerce (Inter),95,Finance,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),99,Finance,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),96,Finance,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),68,MS Excel,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),72,Finance,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),71,MS Excel,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),75,Business Communication,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),86,Finance,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),79,Finance,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),90,Finance,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),97,Business Communication,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),69,MS Excel,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),92,Finance,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),82,Business Communication,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),93,Finance,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),72,MS Excel,Business,Remote,Business Analyst
+Intermediate,Commerce (Inter),92,MS Excel,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),95,MS Excel,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),96,Business Communication,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),99,Finance,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,82,Marketing,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,72,Marketing,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,80,Financial Analysis,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,93,Financial Analysis,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,71,Financial Analysis,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,83,Business Strategy,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,81,Business Strategy,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,75,Business Strategy,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,84,Marketing,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,91,Marketing,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,81,Marketing,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,67,Marketing,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,89,Marketing,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,82,Business Strategy,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,67,Financial Analysis,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,79,Business Strategy,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,88,Marketing,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,82,Marketing,Business,Remote,Business Analyst
+Bachelor's,Business/Commerce,82,Business Strategy,Business,Office,Business Analyst
+Bachelor's,Business/Commerce,83,Business Strategy,Business,Remote,Business Analyst
+Master's,MBA,83,Marketing Analytics,Business,Remote,Business Analyst
+Master's,MBA,66,Leadership,Business,Office,Business Analyst
+Master's,MBA,69,Marketing Analytics,Business,Office,Business Analyst
+Master's,MBA,80,Strategic Management,Business,Office,Business Analyst
+Master's,MBA,66,Strategic Management,Business,Office,Business Analyst
+Master's,MBA,85,Leadership,Business,Office,Business Analyst
+Master's,MBA,76,Marketing Analytics,Business,Remote,Business Analyst
+Master's,MBA,70,Leadership,Business,Remote,Business Analyst
+Master's,MBA,97,Leadership,Business,Office,Business Analyst
+Master's,MBA,66,Strategic Management,Business,Remote,Business Analyst
+Master's,MBA,68,Leadership,Business,Remote,Business Analyst
+Master's,MBA,68,Marketing Analytics,Business,Office,Business Analyst
+Master's,MBA,92,Strategic Management,Business,Remote,Business Analyst
+Master's,MBA,99,Marketing Analytics,Business,Remote,Business Analyst
+Master's,MBA,75,Marketing Analytics,Business,Remote,Business Analyst
+Master's,MBA,70,Strategic Management,Business,Remote,Business Analyst
+Master's,MBA,86,Marketing Analytics,Business,Office,Business Analyst
+Master's,MBA,78,Strategic Management,Business,Office,Business Analyst
+Master's,MBA,89,Leadership,Business,Remote,Business Analyst
+Master's,MBA,100,Leadership,Business,Office,Business Analyst
+Intermediate,Commerce (Inter),89,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),74,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),77,Tally ERP,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),98,Tally ERP,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),78,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),89,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),82,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),96,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),88,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),92,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),76,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),72,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),98,Tally ERP,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),80,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),72,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),80,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),91,Accounting,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),96,Taxation,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),93,Tally ERP,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),92,Taxation,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,71,Supply Chain,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,90,Financial Analysis,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,70,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,84,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,96,Supply Chain,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,97,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,70,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,72,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,96,Financial Analysis,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,98,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,77,Financial Analysis,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,71,Financial Analysis,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,84,Financial Analysis,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,80,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,90,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,89,Supply Chain,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,85,Supply Chain,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,88,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,95,Accounting,Business,Office,Financial Analyst
+Bachelor's,Business/Commerce,86,Financial Analysis,Business,Office,Financial Analyst
+Master's,MBA,84,Consulting,Business,Office,Financial Analyst
+Master's,MBA,99,Leadership,Business,Office,Financial Analyst
+Master's,MBA,85,Finance,Business,Office,Financial Analyst
+Master's,MBA,89,Finance,Business,Office,Financial Analyst
+Master's,MBA,92,Leadership,Business,Office,Financial Analyst
+Master's,MBA,99,Consulting,Business,Office,Financial Analyst
+Master's,MBA,100,Consulting,Business,Office,Financial Analyst
+Master's,MBA,100,Consulting,Business,Office,Financial Analyst
+Master's,MBA,86,Finance,Business,Office,Financial Analyst
+Master's,MBA,80,Leadership,Business,Office,Financial Analyst
+Master's,MBA,93,Consulting,Business,Office,Financial Analyst
+Master's,MBA,88,Finance,Business,Office,Financial Analyst
+Master's,MBA,89,Consulting,Business,Office,Financial Analyst
+Master's,MBA,71,Finance,Business,Office,Financial Analyst
+Master's,MBA,80,Finance,Business,Office,Financial Analyst
+Master's,MBA,87,Consulting,Business,Office,Financial Analyst
+Master's,MBA,72,Consulting,Business,Office,Financial Analyst
+Master's,MBA,76,Consulting,Business,Office,Financial Analyst
+Master's,MBA,91,Consulting,Business,Office,Financial Analyst
+Master's,MBA,88,Leadership,Business,Office,Financial Analyst
+Intermediate,Commerce (Inter),63,MS Excel,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),83,MS Excel,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),66,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),92,MS Excel,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),87,Business Communication,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),69,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),97,MS Excel,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),82,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),72,MS Excel,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),99,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),77,MS Excel,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),99,MS Excel,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),84,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),63,MS Excel,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),70,Business Communication,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),85,Business Communication,Business,Office,Marketing Executive
+Intermediate,Commerce (Inter),81,Business Communication,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),61,Business Communication,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),96,Business Communication,Business,Remote,Marketing Executive
+Intermediate,Commerce (Inter),82,MS Excel,Business,Remote,Marketing Executive
+Intermediate,Arts (Inter),97,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),100,Media,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),88,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),65,Media,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),79,Media,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),84,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),73,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),63,Content Writing,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),79,Graphic Design,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),64,Content Writing,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),61,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),77,Graphic Design,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),61,Content Writing,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),99,Graphic Design,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),86,Content Writing,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),80,Content Writing,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),84,Media,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),90,Media,Arts & Media,Remote,Marketing Executive
+Intermediate,Arts (Inter),79,Graphic Design,Arts & Media,Office,Marketing Executive
+Intermediate,Arts (Inter),60,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Business/Commerce,69,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,92,E-commerce,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,92,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,70,Marketing,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,92,E-commerce,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,84,HR Management,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,98,E-commerce,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,91,Marketing,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,72,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,60,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,91,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,67,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,64,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,62,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,71,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,80,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,69,Marketing,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,100,HR Management,Business,Office,Marketing Executive
+Bachelor's,Business/Commerce,60,E-commerce,Business,Remote,Marketing Executive
+Bachelor's,Business/Commerce,67,HR Management,Business,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,72,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,66,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,93,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,85,Media Production,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,68,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,67,Content Writing,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,68,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,98,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,80,Content Writing,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,99,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,73,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,78,Content Writing,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,96,Media Production,Arts & Media,Remote,Marketing Executive
+Bachelor's,Arts/Humanities,83,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,84,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,63,Media Production,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,62,Content Writing,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,75,Content Writing,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,71,Journalism,Arts & Media,Office,Marketing Executive
+Bachelor's,Arts/Humanities,66,Content Writing,Arts & Media,Remote,Marketing Executive
+Bachelor's,Law,76,Case Analysis,Education & Research,Office,Lawyer
+Bachelor's,Law,75,Criminal Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,91,Case Analysis,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,77,Legal Research,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,85,Contract Law,Education & Research,Office,Lawyer
+Bachelor's,Law,99,Case Analysis,Education & Research,Office,Lawyer
+Bachelor's,Law,93,Contract Law,Education & Research,Office,Lawyer
+Bachelor's,Law,82,Case Analysis,Education & Research,Office,Lawyer
+Bachelor's,Law,82,Criminal Law,Education & Research,Office,Lawyer
+Bachelor's,Law,90,Criminal Law,Education & Research,Office,Lawyer
+Bachelor's,Law,99,Criminal Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,77,Contract Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,90,Criminal Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,85,Criminal Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,74,Contract Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,76,Contract Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,89,Case Analysis,Education & Research,Office,Lawyer
+Bachelor's,Law,72,Case Analysis,Education & Research,Office,Lawyer
+Bachelor's,Law,85,Criminal Law,Education & Research,Fieldwork,Lawyer
+Bachelor's,Law,98,Criminal Law,Education & Research,Fieldwork,Lawyer
+Master's,MA/MSc Arts,74,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,79,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,83,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,70,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,70,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,73,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,98,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,86,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,70,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,76,Academic Writing,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,85,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,100,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,80,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,90,Academic Writing,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,91,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,96,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,89,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,77,Advanced Research,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,91,Policy Analysis,Education & Research,Office,Lawyer
+Master's,MA/MSc Arts,91,Advanced Research,Education & Research,Office,Lawyer
+Bachelor's,Education,65,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,87,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,70,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,100,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,89,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,79,Curriculum Design,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,84,Curriculum Design,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,73,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,66,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,74,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,69,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,83,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,85,Curriculum Design,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,81,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,90,Curriculum Design,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,80,Curriculum Design,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,100,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,70,Teaching,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,73,Communication,Education & Research,Office,Teacher/Professor
+Bachelor's,Education,83,Curriculum Design,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,72,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,81,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,86,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,75,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,91,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,94,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,83,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,71,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,93,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,88,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,96,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,75,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,68,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,69,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,79,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,81,Research,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,76,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,69,Medical Writing,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,89,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MS Medical,90,Public Health,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,80,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,81,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,80,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,65,Cultural Studies,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,73,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,83,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,81,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,96,Cultural Studies,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,82,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,67,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,81,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,80,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,99,Cultural Studies,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,95,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,73,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,97,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,81,Academic Writing,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,70,Cultural Studies,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,97,Cultural Studies,Education & Research,Office,Teacher/Professor
+Master's,MA/MSc Arts,92,Teaching,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,66,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,72,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,68,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,73,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,92,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,81,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,68,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,69,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,96,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,90,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,88,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,66,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,78,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,68,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,98,Research,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,65,Advanced AI,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,97,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,81,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,66,Big Data,Education & Research,Office,Teacher/Professor
+Master's,MS/MPhil CS,87,Research,Education & Research,Office,Teacher/Professor
+Intermediate,Arts (Inter),84,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),100,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),85,Fine Arts,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),55,Media,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),62,Media,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),76,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),91,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),57,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),90,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),76,Media,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),95,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),80,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),73,Media,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),73,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),65,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),56,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),79,Graphic Design,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),66,Graphic Design,Arts & Media,Office,Graphic Designer
+Intermediate,Arts (Inter),75,Media,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),78,Media,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,70,Fine Arts,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,83,Media Production,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,78,Fine Arts,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,66,Photography,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,85,Photography,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,100,Fine Arts,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,93,Media Production,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,87,Media Production,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,85,Photography,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,73,Photography,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,90,Media Production,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,65,Fine Arts,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,69,Photography,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,97,Graphic Design,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,66,Fine Arts,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,96,Media Production,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,95,Photography,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,88,Photography,Arts & Media,Remote,Graphic Designer
+Bachelor's,Arts/Humanities,97,Photography,Arts & Media,Office,Graphic Designer
+Bachelor's,Arts/Humanities,99,Media Production,Arts & Media,Remote,Graphic Designer
+Intermediate,Arts (Inter),72,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),66,Communication,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),90,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),63,Communication,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),87,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),61,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),97,Communication,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),83,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),76,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),88,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),84,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),69,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),61,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),59,Communication,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),88,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),56,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),73,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),66,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),97,Urdu Literature,Arts & Media,Remote,Content Writer
+Intermediate,Arts (Inter),97,Communication,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,85,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,76,Journalism,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,67,Content Writing,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,77,Journalism,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,79,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,94,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,78,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,56,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,86,Content Writing,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,87,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,82,Content Writing,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,63,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,78,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,88,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,82,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,85,Journalism,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,83,Content Writing,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,77,Journalism,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,56,Photography,Arts & Media,Remote,Content Writer
+Bachelor's,Arts/Humanities,100,Content Writing,Arts & Media,Remote,Content Writer
+Intermediate,Commerce (Inter),73,Accounting,Business,Office,Accountant
+Intermediate,Commerce (Inter),86,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),73,Tally ERP,Business,Office,Accountant
+Intermediate,Commerce (Inter),87,Accounting,Business,Office,Accountant
+Intermediate,Commerce (Inter),69,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),86,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),67,Tally ERP,Business,Office,Accountant
+Intermediate,Commerce (Inter),65,Tally ERP,Business,Office,Accountant
+Intermediate,Commerce (Inter),91,Finance,Business,Office,Accountant
+Intermediate,Commerce (Inter),100,Accounting,Business,Office,Accountant
+Intermediate,Commerce (Inter),90,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),61,Tally ERP,Business,Office,Accountant
+Intermediate,Commerce (Inter),69,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),95,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),94,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),91,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),80,MS Excel,Business,Office,Accountant
+Intermediate,Commerce (Inter),66,Accounting,Business,Office,Accountant
+Intermediate,Commerce (Inter),100,Tally ERP,Business,Office,Accountant
+Intermediate,Commerce (Inter),73,Finance,Business,Office,Accountant
+Bachelor's,Business/Commerce,98,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,70,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,63,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,77,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,95,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,88,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,84,Financial Analysis,Business,Office,Accountant
+Bachelor's,Business/Commerce,75,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,64,Financial Analysis,Business,Office,Accountant
+Bachelor's,Business/Commerce,76,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,60,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,72,Financial Analysis,Business,Office,Accountant
+Bachelor's,Business/Commerce,78,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,60,Accounting,Business,Office,Accountant
+Bachelor's,Business/Commerce,82,Financial Analysis,Business,Office,Accountant
+Bachelor's,Business/Commerce,63,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,96,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,100,Supply Chain,Business,Office,Accountant
+Bachelor's,Business/Commerce,84,Financial Analysis,Business,Office,Accountant
+Bachelor's,Business/Commerce,97,Accounting,Business,Office,Accountant
+Master's,MBA,71,Strategic Management,Business,Office,Accountant
+Master's,MBA,77,Consulting,Business,Office,Accountant
+Master's,MBA,100,Consulting,Business,Office,Accountant
+Master's,MBA,90,Finance,Business,Office,Accountant
+Master's,MBA,100,Finance,Business,Office,Accountant
+Master's,MBA,90,Consulting,Business,Office,Accountant
+Master's,MBA,91,Strategic Management,Business,Office,Accountant
+Master's,MBA,89,Finance,Business,Office,Accountant
+Master's,MBA,91,Consulting,Business,Office,Accountant
+Master's,MBA,65,Consulting,Business,Office,Accountant
+Master's,MBA,89,Finance,Business,Office,Accountant
+Master's,MBA,65,Strategic Management,Business,Office,Accountant
+Master's,MBA,76,Finance,Business,Office,Accountant
+Master's,MBA,60,Consulting,Business,Office,Accountant
+Master's,MBA,89,Finance,Business,Office,Accountant
+Master's,MBA,61,Consulting,Business,Office,Accountant
+Master's,MBA,82,Strategic Management,Business,Office,Accountant
+Master's,MBA,75,Strategic Management,Business,Office,Accountant
+Master's,MBA,98,Finance,Business,Office,Accountant
+Master's,MBA,83,Strategic Management,Business,Office,Accountant
+Matric,Science (Matric),61,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),71,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),59,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),74,Mathematics,Technology,Office,Software Engineer
+Matric,Science (Matric),66,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),61,Mathematics,Technology,Office,Software Engineer
+Matric,Science (Matric),66,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),58,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),71,Mathematics,Technology,Office,Software Engineer
+Matric,Science (Matric),64,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),68,Mathematics,Technology,Office,Software Engineer
+Matric,Science (Matric),53,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),60,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),59,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),65,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),64,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),71,Basic Computer,Technology,Office,Software Engineer
+Matric,Science (Matric),74,Lab Skills,Technology,Office,Software Engineer
+Matric,Science (Matric),50,Mathematics,Technology,Office,Software Engineer
+Matric,Science (Matric),57,Basic Computer,Technology,Office,Software Engineer
+Matric,Commerce (Matric),69,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),55,Basic Accounting,Business,Office,Accountant
+Matric,Commerce (Matric),75,Math,Business,Office,Accountant
+Matric,Commerce (Matric),75,Basic Accounting,Business,Office,Accountant
+Matric,Commerce (Matric),66,Basic Accounting,Business,Office,Accountant
+Matric,Commerce (Matric),50,Math,Business,Office,Accountant
+Matric,Commerce (Matric),50,Basic Accounting,Business,Office,Accountant
+Matric,Commerce (Matric),68,Math,Business,Office,Accountant
+Matric,Commerce (Matric),50,Math,Business,Office,Accountant
+Matric,Commerce (Matric),53,Math,Business,Office,Accountant
+Matric,Commerce (Matric),68,Math,Business,Office,Accountant
+Matric,Commerce (Matric),57,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),74,Math,Business,Office,Accountant
+Matric,Commerce (Matric),57,Math,Business,Office,Accountant
+Matric,Commerce (Matric),56,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),66,Basic Accounting,Business,Office,Accountant
+Matric,Commerce (Matric),57,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),66,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),53,MS Office,Business,Office,Accountant
+Matric,Commerce (Matric),63,Basic Accounting,Business,Office,Accountant
+Matric,Arts (Matric),70,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),58,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),75,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),53,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),63,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),61,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),58,Drawing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),59,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),56,Drawing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),70,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),63,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),66,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),72,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),56,Drawing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),61,Drawing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),74,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),57,Creative Writing,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),61,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),51,Communication,Arts & Media,Remote,Content Writer
+Matric,Arts (Matric),75,Communication,Arts & Media,Remote,Content Writer
